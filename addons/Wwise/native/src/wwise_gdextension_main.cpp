@@ -24,6 +24,7 @@
 #include "core/wwise_platform_info.cpp"
 #include "core/wwise_plugin_info.cpp"
 #include "core/wwise_settings.cpp"
+#include "wwise_c_api.cpp"
 #include "scene/ak_bank.cpp"
 #include "scene/ak_early_reflections.cpp"
 #include "scene/ak_environment.cpp"
